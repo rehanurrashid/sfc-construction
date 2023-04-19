@@ -97,4 +97,8 @@
     .dekstop {
         display: none;
     }
+    .header-mobile{
+        padding: 70px 0px !important;
+
+    }
 }
